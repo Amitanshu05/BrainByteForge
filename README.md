@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
