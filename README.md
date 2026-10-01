@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amitanshu05/BrainByteForge/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Amitanshu05/BrainByteForge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Amitanshu05/BrainByteForge/tree/master/0383-ransom-note) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -67,5 +68,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amitanshu05/BrainByteForge/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Amitanshu05/BrainByteForge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
