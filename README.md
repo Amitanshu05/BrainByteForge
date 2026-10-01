@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0202-happy-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0258-add-digits) |
+| [0728-self-dividing-numbers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0728-self-dividing-numbers) |
 | [2544-alternating-digit-sum](https://github.com/Amitanshu05/BrainByteForge/tree/master/2544-alternating-digit-sum) |
 ## Two Pointers
 |  |
