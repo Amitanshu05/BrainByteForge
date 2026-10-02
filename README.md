@@ -84,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Amitanshu05/BrainByteForge/tree/master/2164-sort-even-and-odd-indices-independently) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Amitanshu05/BrainByteForge/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Amitanshu05/BrainByteForge/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
