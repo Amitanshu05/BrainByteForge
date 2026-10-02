@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/Amitanshu05/BrainByteForge/tree/master/0383-ransom-note) |
 | [0709-to-lower-case](https://github.com/Amitanshu05/BrainByteForge/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Amitanshu05/BrainByteForge/tree/master/0771-jewels-and-stones) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amitanshu05/BrainByteForge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Counting
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amitanshu05/BrainByteForge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/1470-shuffle-the-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Amitanshu05/BrainByteForge/tree/master/2057-smallest-index-with-equal-value) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amitanshu05/BrainByteForge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Amitanshu05/BrainByteForge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
