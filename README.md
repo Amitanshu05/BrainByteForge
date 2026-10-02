@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/Amitanshu05/BrainByteForge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Amitanshu05/BrainByteForge/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Amitanshu05/BrainByteForge/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amitanshu05/BrainByteForge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/1470-shuffle-the-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Amitanshu05/BrainByteForge/tree/master/2057-smallest-index-with-equal-value) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Amitanshu05/BrainByteForge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Amitanshu05/BrainByteForge/tree/master/0278-first-bad-version) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
