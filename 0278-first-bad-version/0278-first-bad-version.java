@@ -12,7 +12,7 @@ public class Solution extends VersionControl {
             int mid = p1 + (p2 - p1) / 2;
 
             if(isBadVersion(mid) == true){
-                firstV = Math.min(mid , firstV);
+                firstV = mid;
                 p2 = mid - 1;
             }
 
