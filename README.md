@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amitanshu05/BrainByteForge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/1470-shuffle-the-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Amitanshu05/BrainByteForge/tree/master/2057-smallest-index-with-equal-value) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Amitanshu05/BrainByteForge/tree/master/2164-sort-even-and-odd-indices-independently) |
