@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/Amitanshu05/BrainByteForge/tree/master/0771-jewels-and-stones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amitanshu05/BrainByteForge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2942-find-words-containing-character](https://github.com/Amitanshu05/BrainByteForge/tree/master/2942-find-words-containing-character) |
 ## Counting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/Amitanshu05/BrainByteForge/tree/master/2942-find-words-containing-character) |
 ## Linked List
 |  |
 | ------- |
