@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Amitanshu05/BrainByteForge/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Amitanshu05/BrainByteForge/tree/master/2544-alternating-digit-sum) |
+| [3895-count-digit-appearances](https://github.com/Amitanshu05/BrainByteForge/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2798-number-of-employees-who-met-the-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Amitanshu05/BrainByteForge/tree/master/2942-find-words-containing-character) |
+| [3895-count-digit-appearances](https://github.com/Amitanshu05/BrainByteForge/tree/master/3895-count-digit-appearances) |
 ## Linked List
 |  |
 | ------- |
