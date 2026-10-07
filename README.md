@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/Amitanshu05/BrainByteForge/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Amitanshu05/BrainByteForge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Amitanshu05/BrainByteForge/tree/master/1816-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amitanshu05/BrainByteForge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Amitanshu05/BrainByteForge/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amitanshu05/BrainByteForge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1470-shuffle-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Amitanshu05/BrainByteForge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Amitanshu05/BrainByteForge/tree/master/1816-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amitanshu05/BrainByteForge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Amitanshu05/BrainByteForge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2057-smallest-index-with-equal-value](https://github.com/Amitanshu05/BrainByteForge/tree/master/2057-smallest-index-with-equal-value) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amitanshu05/BrainByteForge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
