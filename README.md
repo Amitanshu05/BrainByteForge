@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Amitanshu05/BrainByteForge/tree/master/0004-median-of-two-sorted-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amitanshu05/BrainByteForge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/1470-shuffle-the-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Amitanshu05/BrainByteForge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/Amitanshu05/BrainByteForge/tree/master/0278-first-bad-version) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Amitanshu05/BrainByteForge/tree/master/2485-find-the-pivot-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Amitanshu05/BrainByteForge/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
