@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0728-self-dividing-numbers) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Amitanshu05/BrainByteForge/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Amitanshu05/BrainByteForge/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2485-find-the-pivot-integer](https://github.com/Amitanshu05/BrainByteForge/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Amitanshu05/BrainByteForge/tree/master/2544-alternating-digit-sum) |
 | [3895-count-digit-appearances](https://github.com/Amitanshu05/BrainByteForge/tree/master/3895-count-digit-appearances) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/Amitanshu05/BrainByteForge/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
