@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0728-self-dividing-numbers) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amitanshu05/BrainByteForge/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
