@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Amitanshu05/BrainByteForge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Amitanshu05/BrainByteForge/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Amitanshu05/BrainByteForge/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2485-find-the-pivot-integer](https://github.com/Amitanshu05/BrainByteForge/tree/master/2485-find-the-pivot-integer) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0029-divide-two-integers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0338-counting-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Amitanshu05/BrainByteForge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Enumeration
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Amitanshu05/BrainByteForge/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Amitanshu05/BrainByteForge/tree/master/0596-classes-with-at-least-5-students) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Amitanshu05/BrainByteForge/tree/master/1978-employees-whose-manager-left-the-company) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Amitanshu05/BrainByteForge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
