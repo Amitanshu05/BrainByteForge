@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2000-reverse-prefix-of-word](https://github.com/Amitanshu05/BrainByteForge/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amitanshu05/BrainByteForge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Amitanshu05/BrainByteForge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Amitanshu05/BrainByteForge/tree/master/2942-find-words-containing-character) |
 ## Counting
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/Amitanshu05/BrainByteForge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Amitanshu05/BrainByteForge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Amitanshu05/BrainByteForge/tree/master/2942-find-words-containing-character) |
 | [3895-count-digit-appearances](https://github.com/Amitanshu05/BrainByteForge/tree/master/3895-count-digit-appearances) |
 ## Linked List
