@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0177-nth-highest-salary](https://github.com/Amitanshu05/BrainByteForge/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Amitanshu05/BrainByteForge/tree/master/0182-duplicate-emails) |
+| [0185-department-top-three-salaries](https://github.com/Amitanshu05/BrainByteForge/tree/master/0185-department-top-three-salaries) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Amitanshu05/BrainByteForge/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Amitanshu05/BrainByteForge/tree/master/0596-classes-with-at-least-5-students) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Amitanshu05/BrainByteForge/tree/master/1978-employees-whose-manager-left-the-company) |
