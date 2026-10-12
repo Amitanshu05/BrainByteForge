@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0338-counting-bits) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Amitanshu05/BrainByteForge/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
