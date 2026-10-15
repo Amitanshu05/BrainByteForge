@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2942-find-words-containing-character](https://github.com/Amitanshu05/BrainByteForge/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3895-count-digit-appearances](https://github.com/Amitanshu05/BrainByteForge/tree/master/3895-count-digit-appearances) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Amitanshu05/BrainByteForge/tree/master/3917-count-indices-with-opposite-parity) |
 ## Linked List
 |  |
 | ------- |
