@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2544-alternating-digit-sum](https://github.com/Amitanshu05/BrainByteForge/tree/master/2544-alternating-digit-sum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Amitanshu05/BrainByteForge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Amitanshu05/BrainByteForge/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amitanshu05/BrainByteForge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3895-count-digit-appearances](https://github.com/Amitanshu05/BrainByteForge/tree/master/3895-count-digit-appearances) |
 | [3959-check-good-integer](https://github.com/Amitanshu05/BrainByteForge/tree/master/3959-check-good-integer) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Amitanshu05/BrainByteForge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/Amitanshu05/BrainByteForge/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
