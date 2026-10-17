@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2485-find-the-pivot-integer](https://github.com/Amitanshu05/BrainByteForge/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Amitanshu05/BrainByteForge/tree/master/2544-alternating-digit-sum) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Amitanshu05/BrainByteForge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amitanshu05/BrainByteForge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3895-count-digit-appearances](https://github.com/Amitanshu05/BrainByteForge/tree/master/3895-count-digit-appearances) |
 | [3959-check-good-integer](https://github.com/Amitanshu05/BrainByteForge/tree/master/3959-check-good-integer) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Amitanshu05/BrainByteForge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Amitanshu05/BrainByteForge/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Amitanshu05/BrainByteForge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3895-count-digit-appearances](https://github.com/Amitanshu05/BrainByteForge/tree/master/3895-count-digit-appearances) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Amitanshu05/BrainByteForge/tree/master/3917-count-indices-with-opposite-parity) |
 | [3978-unique-middle-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/3978-unique-middle-element) |
