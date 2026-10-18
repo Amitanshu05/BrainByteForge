@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2367-number-of-arithmetic-triplets](https://github.com/Amitanshu05/BrainByteForge/tree/master/2367-number-of-arithmetic-triplets) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Amitanshu05/BrainByteForge/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Amitanshu05/BrainByteForge/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Amitanshu05/BrainByteForge/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0258-add-digits) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2553-separate-the-digits-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3959-check-good-integer](https://github.com/Amitanshu05/BrainByteForge/tree/master/3959-check-good-integer) |
 ## Number Theory
