@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amitanshu05/BrainByteForge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Amitanshu05/BrainByteForge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Amitanshu05/BrainByteForge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Amitanshu05/BrainByteForge/tree/master/0409-longest-palindrome) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Amitanshu05/BrainByteForge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Amitanshu05/BrainByteForge/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amitanshu05/BrainByteForge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amitanshu05/BrainByteForge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Amitanshu05/BrainByteForge/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amitanshu05/BrainByteForge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Amitanshu05/BrainByteForge/tree/master/0278-first-bad-version) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -219,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0338-counting-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Amitanshu05/BrainByteForge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Enumeration
