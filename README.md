@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/Amitanshu05/BrainByteForge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amitanshu05/BrainByteForge/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Amitanshu05/BrainByteForge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Amitanshu05/BrainByteForge/tree/master/0383-ransom-note) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Amitanshu05/BrainByteForge/tree/master/0383-ransom-note) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Amitanshu05/BrainByteForge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Amitanshu05/BrainByteForge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/Amitanshu05/BrainByteForge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Amitanshu05/BrainByteForge/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amitanshu05/BrainByteForge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/Amitanshu05/BrainByteForge/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amitanshu05/BrainByteForge/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -273,4 +277,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
