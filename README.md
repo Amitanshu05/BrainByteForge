@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/Amitanshu05/BrainByteForge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Amitanshu05/BrainByteForge/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Amitanshu05/BrainByteForge/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
