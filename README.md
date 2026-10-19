@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amitanshu05/BrainByteForge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Amitanshu05/BrainByteForge/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Amitanshu05/BrainByteForge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Amitanshu05/BrainByteForge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Amitanshu05/BrainByteForge/tree/master/0409-longest-palindrome) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amitanshu05/BrainByteForge/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Amitanshu05/BrainByteForge/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Amitanshu05/BrainByteForge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Amitanshu05/BrainByteForge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Amitanshu05/BrainByteForge/tree/master/0409-longest-palindrome) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Amitanshu05/BrainByteForge/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Amitanshu05/BrainByteForge/tree/master/2164-sort-even-and-odd-indices-independently) |
