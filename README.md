@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Amitanshu05/BrainByteForge/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Amitanshu05/BrainByteForge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Amitanshu05/BrainByteForge/tree/master/0724-find-pivot-index) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Amitanshu05/BrainByteForge/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Amitanshu05/BrainByteForge/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/Amitanshu05/BrainByteForge/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Amitanshu05/BrainByteForge/tree/master/2574-left-and-right-sum-differences) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Amitanshu05/BrainByteForge/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
