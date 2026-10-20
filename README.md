@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Amitanshu05/BrainByteForge/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Amitanshu05/BrainByteForge/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amitanshu05/BrainByteForge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/1470-shuffle-the-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Amitanshu05/BrainByteForge/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/Amitanshu05/BrainByteForge/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Amitanshu05/BrainByteForge/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
