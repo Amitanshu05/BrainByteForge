@@ -21,12 +21,10 @@ class Solution {
             rightProd[i] = prod;
         }
 
-        int[] ans = new int[nums.length];
-
         for(int i = 0 ; i < nums.length ; i++){
-            ans[i] = leftProd[i] * rightProd[i];
+            nums[i] = leftProd[i] * rightProd[i];
         }
 
-        return ans;
+        return nums;
     }
 }
