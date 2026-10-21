@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Amitanshu05/BrainByteForge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amitanshu05/BrainByteForge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Amitanshu05/BrainByteForge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Amitanshu05/BrainByteForge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Amitanshu05/BrainByteForge/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amitanshu05/BrainByteForge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amitanshu05/BrainByteForge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Amitanshu05/BrainByteForge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amitanshu05/BrainByteForge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Amitanshu05/BrainByteForge/tree/master/0278-first-bad-version) |
