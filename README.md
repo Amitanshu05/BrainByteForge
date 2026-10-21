@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/Amitanshu05/BrainByteForge/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Amitanshu05/BrainByteForge/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Amitanshu05/BrainByteForge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Amitanshu05/BrainByteForge/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Amitanshu05/BrainByteForge/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
