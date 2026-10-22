@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Amitanshu05/BrainByteForge/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Amitanshu05/BrainByteForge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Amitanshu05/BrainByteForge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0142-linked-list-cycle-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Amitanshu05/BrainByteForge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amitanshu05/BrainByteForge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Amitanshu05/BrainByteForge/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Amitanshu05/BrainByteForge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Amitanshu05/BrainByteForge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Amitanshu05/BrainByteForge/tree/master/0053-maximum-subarray) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Amitanshu05/BrainByteForge/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Amitanshu05/BrainByteForge/tree/master/0409-longest-palindrome) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Amitanshu05/BrainByteForge/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Euclidean Algorithm
