@@ -1,84 +1,40 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
- */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        int sizeA = 0;
-        int sizeB = 0;
+        int sizeA = 0, sizeB = 0;
 
-        ListNode temp = headA;
-        ListNode temp2 = headB;
+        ListNode tempA = headA;
+        ListNode tempB = headB;
 
-        int counterA = 0;
-        int counterB = 0;
-
-        ListNode turtle = headA;
-        ListNode rabbit = headA;
-
-        while(rabbit != null && rabbit.next != null){
-            turtle = turtle.next;
-            rabbit = rabbit.next.next;
-
-            counterA++;
+        while (tempA != null) {
+            sizeA++;
+            tempA = tempA.next;
         }
 
-        if(rabbit == null){
-            sizeA = counterA * 2;
-        }else{
-            sizeA = counterA * 2 + 1;
+        while (tempB != null) {
+            sizeB++;
+            tempB = tempB.next;
         }
 
+        tempA = headA;
+        tempB = headB;
 
-        ListNode turtleB = headB;
-        ListNode rabbitB = headB;
+        int diff = Math.abs(sizeA - sizeB);
 
-        while(rabbitB != null && rabbitB.next != null){
-            turtleB = turtleB.next;
-            rabbitB = rabbitB.next.next;
-
-            counterB++;
-        }
-
-        if(rabbitB == null){
-            sizeB = counterB * 2;
-        }else{
-            sizeB = counterB * 2 + 1;
-        }
-
-
-        ListNode h1 = headA;
-        ListNode h2 = headB;
-        
-        int difference = sizeA - sizeB;
-        if(difference == 0){
-
-        }
-        else if(difference < 0){
-            for(int i = 0 ; i <Math.abs(difference) ; i++){
-                h2 = h2.next;
+        if (sizeA > sizeB) {
+            for (int i = 0; i < diff; i++) {
+                tempA = tempA.next;
             }
-        }else{
-            for(int i = 0 ; i <Math.abs(difference) ; i++){
-                h1 = h1.next;
+        } else {
+            for (int i = 0; i < diff; i++) {
+                tempB = tempB.next;
             }
         }
 
-        while(h1 != null){
-            if(h1 == h2){
-                return h1;
-            }
-            h1 = h1.next;
-            h2 = h2.next;
+        while (tempA != tempB) {
+            tempA = tempA.next;
+            tempB = tempB.next;
         }
 
-        return null;
+        return tempA;
     }
 }
