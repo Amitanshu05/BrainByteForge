@@ -10,28 +10,33 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        // finding mid value : using slow fast pointer :
+        if(head == null || head.next == null) return true;
 
-        ListNode slow = head;
-        ListNode fast = head;
 
-        while(fast != null &&  fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
+        // finding mid so that next element se reverse kardenge linked list .
+
+
+        ListNode turtle = head;
+        ListNode hare = head;
+
+        while(hare != null && hare.next != null){
+
+            turtle = turtle.next;
+            hare = hare.next.next;
         }
 
-        if(fast != null){
-            slow = slow.next;
+        if(hare != null){
+            turtle = turtle.next;
         }
-
-        ListNode mid = slow;
+        
+        ListNode curr = turtle;
 
         ListNode prev = null;
-        ListNode curr = mid;
-        ListNode next = null;
 
+        ListNode next = curr.next;
 
         while(curr != null){
+
             next = curr.next;
             curr.next = prev;
 
@@ -39,18 +44,16 @@ class Solution {
             curr = next;
         }
 
-        ListNode tail = prev;
+        ListNode temp = head;
+        ListNode revTemp = prev;
 
-
-        ListNode start = head;
-
-        while(tail != null){
-            if(start.val != tail.val){
+        while(revTemp != null){
+            if(temp.val != revTemp.val){
                 return false;
             }
 
-            start = start.next;
-            tail = tail.next;
+            temp = temp.next;
+            revTemp = revTemp.next;
         }
 
         return true;
