@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/Amitanshu05/BrainByteForge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Amitanshu05/BrainByteForge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Amitanshu05/BrainByteForge/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Amitanshu05/BrainByteForge/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Amitanshu05/BrainByteForge/tree/master/0771-jewels-and-stones) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Amitanshu05/BrainByteForge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Amitanshu05/BrainByteForge/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Amitanshu05/BrainByteForge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0643-maximum-average-subarray-i) |
