@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Amitanshu05/BrainByteForge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Amitanshu05/BrainByteForge/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Amitanshu05/BrainByteForge/tree/master/0875-koko-eating-bananas) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amitanshu05/BrainByteForge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/1470-shuffle-the-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Amitanshu05/BrainByteForge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Amitanshu05/BrainByteForge/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Amitanshu05/BrainByteForge/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
