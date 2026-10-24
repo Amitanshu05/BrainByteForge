@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amitanshu05/BrainByteForge/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Amitanshu05/BrainByteForge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Amitanshu05/BrainByteForge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0142-linked-list-cycle-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Amitanshu05/BrainByteForge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0142-linked-list-cycle-ii) |
