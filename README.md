@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amitanshu05/BrainByteForge/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Amitanshu05/BrainByteForge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Amitanshu05/BrainByteForge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Amitanshu05/BrainByteForge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0142-linked-list-cycle-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Amitanshu05/BrainByteForge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Amitanshu05/BrainByteForge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Amitanshu05/BrainByteForge/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Amitanshu05/BrainByteForge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amitanshu05/BrainByteForge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amitanshu05/BrainByteForge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/0169-majority-element) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Amitanshu05/BrainByteForge/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Amitanshu05/BrainByteForge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amitanshu05/BrainByteForge/tree/master/0242-valid-anagram) |
@@ -337,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amitanshu05/BrainByteForge/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Amitanshu05/BrainByteForge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Amitanshu05/BrainByteForge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
