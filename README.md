@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Amitanshu05/BrainByteForge/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Amitanshu05/BrainByteForge/tree/master/0771-jewels-and-stones) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Amitanshu05/BrainByteForge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Amitanshu05/BrainByteForge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Amitanshu05/BrainByteForge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Amitanshu05/BrainByteForge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Amitanshu05/BrainByteForge/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Amitanshu05/BrainByteForge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Amitanshu05/BrainByteForge/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Amitanshu05/BrainByteForge/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Amitanshu05/BrainByteForge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Amitanshu05/BrainByteForge/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Amitanshu05/BrainByteForge/tree/master/0875-koko-eating-bananas) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Amitanshu05/BrainByteForge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amitanshu05/BrainByteForge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/1470-shuffle-the-array) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amitanshu05/BrainByteForge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Amitanshu05/BrainByteForge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Amitanshu05/BrainByteForge/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/Amitanshu05/BrainByteForge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Amitanshu05/BrainByteForge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Amitanshu05/BrainByteForge/tree/master/0875-koko-eating-bananas) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Amitanshu05/BrainByteForge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
