@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Amitanshu05/BrainByteForge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Amitanshu05/BrainByteForge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Amitanshu05/BrainByteForge/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Amitanshu05/BrainByteForge/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/Amitanshu05/BrainByteForge/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Amitanshu05/BrainByteForge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amitanshu05/BrainByteForge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Amitanshu05/BrainByteForge/tree/master/2000-reverse-prefix-of-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amitanshu05/BrainByteForge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Amitanshu05/BrainByteForge/tree/master/0383-ransom-note) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Amitanshu05/BrainByteForge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Amitanshu05/BrainByteForge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3978-unique-middle-element](https://github.com/Amitanshu05/BrainByteForge/tree/master/3978-unique-middle-element) |
 ## Math
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amitanshu05/BrainByteForge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Amitanshu05/BrainByteForge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Amitanshu05/BrainByteForge/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Amitanshu05/BrainByteForge/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Amitanshu05/BrainByteForge/tree/master/2108-find-first-palindromic-string-in-the-array) |
