@@ -9,8 +9,6 @@ class Solution {
                 char c = board[i][j];
 
                 if(c != '.' && !hs1.add(c)) return false;
-
-                if(c != '.') hs1.add(c);
                 
             }
         }
@@ -25,8 +23,6 @@ class Solution {
                 char c = board[j][i];
 
                 if(c != '.' && !hs2.add(c)) return false;
-
-                if(c != '.') hs2.add(c);
                 
             }
         }
@@ -46,7 +42,6 @@ class Solution {
 
                         if(c != '.' && !hs3.add(c)) return false;
 
-                        if(c != '.') hs3.add(c);
                     }
                 }
             }
