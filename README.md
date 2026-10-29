@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Amitanshu05/BrainByteForge/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Amitanshu05/BrainByteForge/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Amitanshu05/BrainByteForge/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Amitanshu05/BrainByteForge/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Amitanshu05/BrainByteForge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Amitanshu05/BrainByteForge/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Amitanshu05/BrainByteForge/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Amitanshu05/BrainByteForge/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Amitanshu05/BrainByteForge/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Amitanshu05/BrainByteForge/tree/master/0875-koko-eating-bananas) |
