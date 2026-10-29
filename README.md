@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Amitanshu05/BrainByteForge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Amitanshu05/BrainByteForge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Amitanshu05/BrainByteForge/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Amitanshu05/BrainByteForge/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Amitanshu05/BrainByteForge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amitanshu05/BrainByteForge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Amitanshu05/BrainByteForge/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Amitanshu05/BrainByteForge/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Amitanshu05/BrainByteForge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Amitanshu05/BrainByteForge/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Amitanshu05/BrainByteForge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Amitanshu05/BrainByteForge/tree/master/1539-kth-missing-positive-number) |
